@@ -1,0 +1,26 @@
+.section4 {
+    height: 100vh;
+    overflow: hidden;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .loop {
+    display: inline-block;
+    font-family: "Dela Gothic One";
+    font-size: 5rem;
+    color: transparent;
+    white-space: nowrap;
+    height: 100%;
+    -webkit-text-stroke: 1px black;
+  }
+  .loop > span {
+    display: inline-block;
+  }
+
+  .box{
+    width:540px;
+    height: 197px;
+    transform:rotate(4.23deg);
+    background-color:#9DA4FF;
+  }
